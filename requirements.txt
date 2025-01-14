@@ -1,5 +1,4 @@
-dash
+streamlit
 plotly
-numpy
 scipy
-gunicorn
+numpy
